@@ -1,0 +1,6 @@
+business_rep_id,passenger_id,allowance_amount,max_num_rides
+2,1,50.00,3
+4,3,75.00,5
+6,5,25.00,2
+6,1,25.00,2
+2,7,40.00,3
